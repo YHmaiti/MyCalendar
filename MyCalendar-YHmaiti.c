@@ -24,7 +24,7 @@
 
 // function prototypes:
 
-// keep the ForgCiables that will hold the passed ForgCiables unnamed yet 
+// keep the variables that will hold the passed variables unnamed yet 
 // to allow following changes.
 
 void gotoxy(int x, int y);// go to the determined coordinates and this function will help draw lines accordingly
