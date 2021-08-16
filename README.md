@@ -15,13 +15,11 @@ Author: Yohan Hmaiti
 => Note: The program can also Operate through using the Keyboard arrow keys in all directions!!!!!
 => Note: The user will be able to use also screen based arrows to initiate changes
 
-// Multiple commands that offer easy manipulation and colour use are implemented for a better
-// user experience and easy access/walkthrough of the calendar.
+// Multiple commands that offer easy manipulation and colour use are implemented for a better user experience and easy access/walkthrough of the calendar.
 
 => Note: the calendar showcases the month/year/date and the days of the week
 
 // the program uses the COORD struct that consists of two corrdinates x and y of type SHORT
-// Link to retrieve and back-up knwoledge:
-// https://docs.microsoft.com/en-us/windows/console/coord-str
+// Link to retrieve and back-up knwoledge: https://docs.microsoft.com/en-us/windows/console/coord-str
 
 => Have fun checking this program and hope you will check the remaining projects I worked on listed on my GitHub: YHmaiti
