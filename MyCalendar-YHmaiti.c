@@ -1,7 +1,7 @@
 // This program was made by Yohan Hmaiti
 // GitHub: YHmaiti
 
-// This program represents a calendar app taht allows the user to go to his desired date
+// This program represents a calendar app that allows the user to go to his desired date
 // through specifying the month and year or the user can directly if no choice is entered
 // go to the current date.
 
